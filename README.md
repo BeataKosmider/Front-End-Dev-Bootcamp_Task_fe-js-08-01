@@ -2,11 +2,9 @@
 
 Stwórz klasę, która będzie nazywała się “Apple”. Zdefiniuj w niej 3 parametry:
 
-```javascript
-name (typu String)
-color (typu String)
-sweetness (typu Number)
-```
+- name (typu String)
+- color (typu String)
+- sweetness (typu Number)
 
 Klasa musi być stworzona tak, że kiedy stworzymy jej instancje w ten sposób:
 
