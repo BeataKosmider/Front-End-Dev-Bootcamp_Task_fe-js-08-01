@@ -1,3 +1,5 @@
+Task performed during Front-End Developer Bootcamp
+
 # 8.1
 
 Stwórz klasę, która będzie nazywała się “Apple”. Zdefiniuj w niej 3 parametry:
